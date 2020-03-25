@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=bsnes
+Comment=Super Nintendo (SNES) emulator focused on performance
+Icon=bsnes
+Exec=bsnes
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;

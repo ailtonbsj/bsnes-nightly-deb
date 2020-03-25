@@ -1,0 +1,11 @@
+Package: bsnes-nightly
+Version: 115.0.0
+Installed-Size: 16900
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Section: misc
+Architecture: amd64
+Priority: optional
+Depends: libgtksourceview2.0-0, libao4, libgtk2.0-0, libpulse0, libcairo2, libsdl2-2.0-0, libxv1, libopenal1, libudev1
+Homepage: https://byuu.org/bsnes
+Description: Super Nintendo (SNES) emulator focused on performance.
+ Bsnes is a Super Nintendo / Super Famicom emulator that began development on October 14th, 2004. It focuses on performance, features, and ease of use.
