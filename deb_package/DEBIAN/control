@@ -1,6 +1,6 @@
 Package: bsnes-nightly
-Version: 115.0.0
-Installed-Size: 16900
+Version: 115.0.1
+Installed-Size: 16434
 Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
 Section: misc
 Architecture: amd64
